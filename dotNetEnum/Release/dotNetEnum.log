@@ -1,0 +1,7 @@
+﻿  dotNetEnum.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\projects\dotNetEnum\dotNetEnum\dotNetEnum.cpp(51): warning C4715: 'checkDotNetReg': not all control paths return a value
+  All 147 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  dotNetEnum.vcxproj -> D:\projects\dotNetEnum\Release\dotNetEnum.exe
