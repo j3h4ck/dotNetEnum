@@ -1,4 +1,8 @@
 # .NET Version Enumeration Tool
+
+## Description
+This C++ program allows users to enumerate .NET versions installed on a Windows system using two different methods: checking the registry key and examining the `Microsoft.NET` folder. It provides information about each detected .NET version, allowing users to identify the installed versions easily.
+
 ## Output
 ```
 D:\projects\dotNetEnum\x64\Release>.\dotNetEnum.exe
@@ -33,8 +37,6 @@ ______      _   _   _      _  ______
 [+]      .Net v3.5
 [+]      .Net v4.0.30319
 ```
-## Description
-This C++ program allows users to enumerate .NET versions installed on a Windows system using two different methods: checking the registry key and examining the `Microsoft.NET` folder. It provides information about each detected .NET version, allowing users to identify the installed versions easily.
 
 ## Usage
 1. Clone this repository to your local machine.
